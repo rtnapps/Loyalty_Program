@@ -1,0 +1,2 @@
+First run - init_database.py
+then - app.py
